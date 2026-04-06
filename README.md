@@ -1,4 +1,4 @@
-# Drug ML Tutorial (Mini-Course)
+# BM ML for NCI-60
 
 This repo contains three Google Colab–ready notebooks that take you from zero to
 training simple models and (optionally) playing with real NCI‑60 drug‑response data.
